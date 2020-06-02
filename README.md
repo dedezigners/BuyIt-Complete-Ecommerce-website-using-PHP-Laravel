@@ -7,5 +7,5 @@ Complete E commerce website using PHP with Laravel framework
 - JavaScript
 
 ### Back-End
-- PHP (Larave Framework)
+- PHP (Laravel Framework)
 - MySql
